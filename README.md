@@ -1,2 +1,2 @@
 # uzgodnienia-vat
-uzgania rejestr z zapisami na koncie
+uzgadnia rejestr z zapisami na koncie
